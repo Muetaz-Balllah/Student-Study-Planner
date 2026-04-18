@@ -52,7 +52,7 @@ flutter run
 For Android only:
 
 ```bash
-flutter run -d emulator-5554
+flutter run -d <device-name>
 ```
 
 For iOS only (macOS required):
